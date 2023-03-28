@@ -5,7 +5,7 @@ const Shop = () => {
     <div>
       <h1 className="my-3">RealMe 5i - Rs. 20,000</h1>
       <button className="btn btn-primary mx-3">-</button>
-      Add to carts
+      Add to cart
       <button className="btn btn-primary mx-3">+</button>
     </div>
   );
